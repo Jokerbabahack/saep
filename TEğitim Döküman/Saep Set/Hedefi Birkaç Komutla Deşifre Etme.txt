@@ -1,0 +1,33 @@
+https://github.com/Bafomet666/OSINT-SAN
+
+ 
+
+ 
+
+ 
+
+veri almak ve kullanıcının tamamen anonimleştirilmesi için bir çerçevedir. Araç, yardımcı programın hızını ve doğruluğunu artırmak için çok sayıda farklı API kullanır.
+
+ 
+
+Termux kurulum
+
+ 
+
+$ git clone https://github.com/Bafomet666/OSINT-SAN
+
+ 
+
+$ cd OSINT-SAN
+
+ 
+
+$ pip install -r requirements.txt
+
+ 
+
+Nasıl Kullanılır?
+
+ 
+
+$ python3 osintsan.py

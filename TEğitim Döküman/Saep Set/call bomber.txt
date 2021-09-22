@@ -1,0 +1,18 @@
+× Termux telefon arama bombası
+
+
+$  apt upgrade && apt update
+
+$  apt install git
+
+$  apt install python
+
+$  git clone httpsgithub.com404rgrspamerCALL
+
+$  cd spamerCALL
+
+$  pip install -r requirements.txt
+
+$  python spamercall.py
+
+uyarı Kendi cep telefonuzda çalışmayabilir

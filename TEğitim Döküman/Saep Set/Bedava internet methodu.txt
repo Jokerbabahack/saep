@@ -1,0 +1,101 @@
+Uyarı! Hattınız faturalı ise bu yöntemi kullanmayın!
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Adım adım devam edeceğim.
+
+ 
+
+1. Öncelikle play store üzerinden " Your Freedom " uygulamasını indirmeniz gerekiyor. Buraya tıklayarak ulaşabilirsiniz.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2. Sonrasında size aşağıda vermiş olduğum linkler üzerinden operatörünüze uygun olan config dosyasını indirin.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3. Uygulamaya girip alt kısımda bulunun "Ayarlar" kısmından "Yedekle/geri yükle" bölümüne girin.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4. Yapılandırmayı yükle tuşuna basarak indirmiş olduğunuz config dosyasını seçin. Seçemiyorsanız dosya adını kopyalayıp yapıştırın ardından geriye çıkın
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5. Ardından tekrar ana sayfaya gelerek Bağlan tuşuna basarak sınırsız internete bağlanabilirsiniz.
+
+ 
+
+ 
+
+ 
+
+Çok yavaş olabilir, uygulamaya kayıt olup uygulama mağzasından mobile plus üyeliği alarak hızı 15-20mb lere çıkartabilirsiniz. Şahsen ben bu hızları gördüm.
+
+ 
+
+ 
+
+ 
+
+Türkcell: https://dosya.co/tq0w4l7gjdhc/Turkcell-Th3Molq.cfg.html
+
+ 
+
+ 
+
+ 
+
+Türk Telekom: https://dosya.co/ed0m9f45gj05/Turktelekom-Th3Molq.cfg.html
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Vodafone:https://dosya.co/wc14w06z3tza/Vodafone-Th3Molq.cfg.html

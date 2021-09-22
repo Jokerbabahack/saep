@@ -1,0 +1,19 @@
+•öncelikle WIN + R tuş kombinasyonuna basın ve şunu yazın
+C:\windows\system32\drivers\etc\hosts
+
+En aşşa inin ve şu kodu ekleyin
+siteleri - olmadan yazın
+
+0.0.0.0 iplog-ger.org
+0.0.0.0 2n-o.co
+0.0.0.0 iplog-ger.com
+0.0.0.0 iplog-ger.ru
+0.0.0.0 yi-p.su
+0.0.0.0 ipl-og-ger.co
+0.0.0.0 ip-log-ger.info
+0.0.0.0 ip-grab-ber.ru
+0.0.0.0 ip-gra-ber.ru
+0.0.0.0 ip-li-s.ru
+0.0.0.0 02i-p.ru
+
+Değişiklikleri kaydedin ve bilgisayarı yeniden başlatın

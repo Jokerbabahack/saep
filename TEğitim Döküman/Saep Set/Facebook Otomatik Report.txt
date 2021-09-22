@@ -1,0 +1,35 @@
+#Facebook 
+
+ 
+
+Oto Report Aracı
+
+                   
+
+ 
+
+$ pkg update && pkg upgrade
+
+ 
+
+$ pkg install git
+
+ 
+
+$ pkg install python2
+
+ 
+
+$ git clone https://github.com/PangeranAlvins/Repot3
+
+ 
+
+$ cd Repot3
+
+ 
+
+$ bash install.sh
+
+ 
+
+$ python2 Repot3.py
