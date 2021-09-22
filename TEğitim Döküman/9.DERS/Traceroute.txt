@@ -1,0 +1,3 @@
+İndirmek için "pkg install tracepath"
+
+kullanmak için "traceroute google.com"
