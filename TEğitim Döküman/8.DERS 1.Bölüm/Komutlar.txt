@@ -1,0 +1,27 @@
+apt update
+
+pkg update
+
+pkg upgrade
+
+pkg install git
+
+git clone https://github.com/htr-tech/nexphisher.git
+
+cd nexphisher
+
+chmod 777 *
+
+./tmux_setup
+
+./nexphisher
+
+seçeneklerden:
+
+02
+
+01
+
+02
+
+şeklinde seçenekler
