@@ -1,0 +1,33 @@
+#Website
+
+ 
+
+Termuxa Breacher nasıl kurulur | Website Admin Panel Bulucu
+
+  
+
+$ apt update && apt upgrade
+
+ 
+
+$ pkg install git python python2
+
+ 
+
+$ git clone https://github.com/s0md3v/Breacher.git
+
+ 
+
+$ ls
+
+ 
+
+$ cd Breacher
+
+ 
+
+$ ls
+
+ 
+
+$ python2 breacher.py -u (Website İsmi)

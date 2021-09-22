@@ -1,0 +1,10 @@
+Bu Tool Sayesinde Yazının Rengini Fontunu Ayarlayabilirsiniz, Banner Koyabilirsiniz ve Ekstra Klavye Ekleyebilirsiniz vb. Şeyler Yapabilirsiniz.
+
+ 
+
+Kurulum:
+
+ 
+
+rm -rf termux-styling
+pkg install git -y&&git clone https://github.com/termuxxtoolss/TERMUX-STYLING&&cd TERMUX-STYLING&&chmod 777 kurulum.sh&&bash kurulum.sh&&termux-styling

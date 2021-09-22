@@ -1,0 +1,29 @@
+#Website  
+
+Website Hack & Website Bilgilerini Güçlü Tool ile elde etmek Termux ||
+
+ 
+
+ 
+
+$ apt update && apt upgrade
+
+ 
+
+$ pkg install ruby
+
+ 
+
+$ git clone https://github.com/bahaabdelwahed/killshot.git
+
+ 
+
+$ cd killshot
+
+ 
+
+$ ls
+
+ 
+
+$ ruby Killshot.rb

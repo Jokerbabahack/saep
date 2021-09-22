@@ -1,0 +1,37 @@
+#Website 
+
+ 
+
+Website Hackleme Toolu || Otomatik ofansif güvenlik toolu || Güçlü !
+
+                      
+
+ 
+
+$ apt upgrade && apt update
+
+ 
+
+$ git clone https://github.com/j3ssie/Osmedeus
+
+ 
+
+$ ls
+
+ 
+
+$ cd Osmedeus
+
+ 
+
+$ ls
+
+ 
+
+$ ./install.sh
+
+ 
+
+ 
+
+$ ./osmedeus.py -t example.com
