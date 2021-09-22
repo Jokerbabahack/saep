@@ -1,0 +1,18 @@
+apt uptade
+
+apt install git -y
+
+git clone https://github.com/Rajkumrdusad/IP-Tracer.git
+
+cd IP-Tracer
+
+chmod +x install
+
+./install
+
+Peki şimdi bize IP Adresi lazım. ​
+IP Adresini Bulduktan sonra
+
+trace -t "Hedef ip adresi" (Tırnaklar olmayacak)
+
+Location” kısmında ki kodu kopyalayın o kod konum adresinin kodu sonra Google haritalar arama kısmına yapıştırın ve konum tespit edild
