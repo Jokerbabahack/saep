@@ -10,4 +10,4 @@ python3 TEğitim.py``
 
 ------------------------
 ### Sosyal Medya
-> [INSTAGRAM](https://Instagram.com/saep_officiall_/)
+> [INSTAGRAM](https://Instagram.com/saep_official_/)
